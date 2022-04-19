@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://voqh.github.io/order-summary-card/]
+- Live Site URL: [https://voqh.github.io/order-summary-card/]
 
 ## My process
 
@@ -42,28 +42,31 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
+
 Elenemt Shadow; To give an element shadow, use the box-shadow property with a vertical and a horizontal values. Add a blur value to give the shadow a blur effect.
 
 ```css
-.button1{
-    background-color: var(--Bright-blue);
-    color: white;
-    border-radius: 10px;
-    box-shadow:5px 20px 10px var(--Pale-blue);
+.button1 {
+  background-color: var(--Bright-blue);
+  color: white;
+  border-radius: 10px;
+  box-shadow: 5px 20px 10px var(--Pale-blue);
 }
 ```
 
 ### Continued development
+
 Explore text-shadow and box-shadow property values.
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/css/css_image_transparency.asp) - This helped me for CSS Opacity / Transparency.Image and code Exmples were really helpful.
-- [Example resource 2](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp) - This is an amazing article which helped me finally understand CSS box-shadow. I'd recommend it to anyone still learning this concept.
-
+- [https://www.w3schools.com/css/css_image_transparency.asp]
+- This helped me for CSS Opacity / Transparency.Image and code Exmples were really helpful.
+- [https://www.w3schools.com/css/css_image_transparency.asp]
+- This is an amazing article which helped me finally understand CSS box-shadow. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Website - [Add your name here](https://www.Voh.git.io)
-- Frontend Mentor - [@Voh](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@kelvo_ndegwa](https://www.twitter.com/voqh)
+- Website - [https://www.Voh.git.io]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/@voqh]
+- Twitter - [https://www.twitter.com/@kelvo_ndegwa]
